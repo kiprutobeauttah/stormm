@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Alphaverse8qn/Stormm"><img src=".imgs/stormm.jpeg" alt="Stormm"></a>
+  <a href="https://github.com/kiprutobeauttah/Stormm"><img src=".imgs/stormm.jpeg" alt="Stormm"></a>
 
 </h1>
 
@@ -93,7 +93,7 @@
 ### Installation On Kali Linux
 
 ```
-git clone https://github.com/Alphaverse38qn/Stormm
+git clone https://github.com/kiprutobeauttah/Stormm"
 cd Storm-Breaker
 sudo bash install.sh
 sudo python3 -m pip install -r requirements.txt
